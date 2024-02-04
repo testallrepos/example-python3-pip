@@ -3,6 +3,3 @@ PyJWT==0.4.2
 rsa==3.4
 requests==2.21.0
 feedparser==6.0.8     
-
-
-
